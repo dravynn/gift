@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "1767716150337",
+    "name": "flower",
+    "description": "Rose",
+    "price": 20,
+    "categories": {}
+  },
+  {
+    "id": "1767718282533",
+    "name": "ball",
+    "description": "Footbal",
+    "price": 40,
+    "categories": {}
+  }
+]
